@@ -1,0 +1,32 @@
+[GMPO-1] Password alanı,en az 6 karakter(dahil) içermelidir Oluşturulan: 29/Ağu/25  Güncellendi: 29/Ağu/25 
+Durum:	Yapılacaklar
+Proje:	GOIT MANUEL PROJE ÖDEVİ
+
+Bileşenler:	Yok 
+Etkilenen sürümler:	Yok 
+Düzeltme sürümleri:	Yok 
+
+Tür: 	Hata 	Öncelik: 	Medium 
+Raporlayan: 	Fatma bolat 
+Atanan Kişi: 	Atanmamış 
+Çözüm: 	Çözülmemiş 	Oylar: 	0 
+Etiketler: 	Yok 
+Kalan Süre Tahmini:	Belirtilmemiş 
+Harcanan Süre:	Belirtilmemiş 
+Orijinal tahmin:	Belirtilmemiş 
+
+Rank:	0|i0002n: 
+Sprint:	
+
+ Açıklama  	 
+Test sayfasında password alanında en az 6 karakter olması isteniyor ancak uygulamada en az 8 karakteri kabul ediyor.  "Must contain 8 characters,at least 1 capital and 1 number " hatasını veriyor.                               
+Oluşturma adımları;                                                                                                                  
+1 - Uygulama sayfasını aç
+2 - Sign Up butonuna tıkla
+3-  Geçerli bir şifre gir  (6 karakter)                                                                 
+Beklenen Sonuç; Password alanında en az 6 karakter ile oluşturulan şifreyi kabul etmeli                                                                                                     
+Asıl sonuç;En az karakteri kabul etmiyor, en az 8 karakter olmalı diye hata mesajı veriyor
+
+Fatma bolat tarafından Jira 1001.0.0-SNAPSHOT#100288-rev:108750759c2ccd8b0b8d1712fded376c6b07543e kullanılarak şu saatte oluşturuldu: Fri Aug 29 21:17:23 UTC 2025. 
+
+
