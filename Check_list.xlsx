@@ -1,0 +1,40 @@
+1	İzinsiz kullanılar için uygulama sayfaları belirtilen genişliklerde şablona göre görüntülenmelidir	
+2	İzinsiz kullanılar için Uygulamanın adı (logo) - giriş sayfasına bağlantı içerir, tıklandığında yetkisiz kullanıcıyı Başlangıç Sayfasına yönlendirir	
+3	İzinsiz kullanılar için Başlangıç sayfasının içerikleri	
+4	İzinsiz kullanılar için Başlangıç sayfasındaki istatiksel içerikler ve resim içeriği	
+5	İzinsiz kullanılar için Sign In giriş formu 	
+6	İzinsiz kullanılar için Sign Up kayıt formu	
+7	İzinsiz kullanılar için Profile Settings sayfası	
+8	İzinsiz kullanılar için Email girişi doğrulama kuralları	
+9	İzinsiz kullanılar için Password girişi doğrulama kuralları	
+10	İzinsiz kullanılar için Name girişi doğrulama kuralları	
+11	Yetkili kullanıcılar için sayfa başlık öğeleri	
+12	Uygulamanın adı ve logosu - tıklandığında, kullanıcı Diary sayfasına yönlendirilir (eğer backend’de kullanıcının bilgileri varsa) veya Profile Settings sayfasına yönlendirilir.	
+13	Uygulama sayfalarına navigasyon öğeleri (eğer backend’de kullanıcı bilgileri varsa)	
+14	Kullanıcının kişisel bilgileri ile ilgili blok	
+15	Logout butonu - tıklanıldığında kullanıcı oturumu kapatılır ve başlangıç sayfası açılır.	
+16	Mobil ve tablet sürümlerinde, navigasyon öğeleri ve Logout butonu burger menüde yer alır	
+17	Profile Settings sayfa içerikleri	
+18	UserForm bloğu, kullanıcının mevcut kayıtlı bilgilerini içerir ve bunları değiştirme imkanı sağlar.	
+19	UserCard bloğu içerik	
+20	UserForm bloğu doğrulama kuralları	
+21	Save butonuna tıklandığında, form alanları doğrulanır ve olumsuz sonuç varsa hata mesajı görüntülenir	
+22	Mobil/tablet/masaüstü tasarımlarına göre UserForm ve UserCard bloklarının yerleşimi değişir	
+23	Diary sayfa içerikleri	
+24	Tarih bileşeni, kullanıcı tarafından seçilen tarihi gg/aa/yyyy biçiminde görüntüler. Varsayılan olarak, seçilen tarih geçerli tarihe eşittir.	
+25	Products blok içerikleri	
+26	Exercises blok içerikleri	
+27	DayDashboard bloğu, bir uyarı mesajı ve 6 bloktan oluşur	
+28	Yerleşim düzenine (mobile/tablet/desktop) bağlı olarak, Products, Exercises ve DayDashboard bloklarının yerleşimi tasarıma göre değişir	
+29	Products Page içerikleri	
+30	ProductsFilters içerikleri	
+31	ProductsList içerikleri	
+32	Tüketilen ürünü eklemek	
+33	Add to diary düğmesi	
+34	Cancel düğmesi	
+35	product butonu	
+36	To the diary bağlantısı	
+37	Exercises page içerikleri	
+38	ExercisesSubcategoriesList bileşeni 	
+39	Back düğmesi	
+40	ExercisesItem içerikleri	
