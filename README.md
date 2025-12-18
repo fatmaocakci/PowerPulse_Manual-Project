@@ -35,4 +35,3 @@ PowerPulse Manual Testing Project
 
 Projeyi Hazırlayan: Fatma Bolat
 
-Projeyi Hazırlayan: Öznur Çağlar
